@@ -1,0 +1,11 @@
+[package]
+name = "kmbox"
+version = "0.1.0"
+edition = "2021"
+authors = ["Stipulations"]
+license = "MIT OR Apache-2.0"
+description = "a crate that will help with interaction of kmbox hid devices"
+
+[dependencies]
+serialport = "4.5.0"
+colored = "2.1.0"
