@@ -60,5 +60,5 @@ It can be something simple of the com port just not being shown or drivers not b
 
 #### When will kmbox Net and NVideo support be added?
 
-Im crippling poor so not for awhile unless someone wants to donate me money via crypto to add support i will
+Im crippling poor so not for awhile unless someone wants to donate me money via crypto to buy them and add support
 
