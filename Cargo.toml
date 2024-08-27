@@ -4,6 +4,7 @@ version = "0.1.2"
 edition = "2021"
 authors = ["Stipulations"]
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/Stipulations/kmbox"
 description = "a crate that will help with interaction of kmbox hid devices"
 
 [dependencies]
