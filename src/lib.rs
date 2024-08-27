@@ -68,3 +68,7 @@ pub fn move_command(port_name: String, x: i32, y: i32) -> Result<(), String> {
     println!("{}", command.green());
     Ok(())
 }
+
+fn mouse_click() {
+    todo!()
+}
